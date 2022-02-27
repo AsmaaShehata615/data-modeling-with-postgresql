@@ -1,4 +1,3 @@
-# pagila-data-modeling
 # Project data modeling with PostgreeSQL
 
 This project is the first project of the Data Engineer Nanodegree in Udacity. 
